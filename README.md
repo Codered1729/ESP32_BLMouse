@@ -23,4 +23,4 @@ A hardware-level project that transforms an ESP32 microcontroller into a fully f
 ### Installation & Flashing
 1. Clone this repository:
    ```bash
-   git clone git clone https://github.com/Codered1729/ESP32_BLMouse.git
+   git clone https://github.com/Codered1729/ESP32_BLMouse.git
